@@ -286,10 +286,6 @@ speak(corrected_word)
 
 ```
 
-## [Demo Video](https://www.youtube.com/watch?v=vfPoTQ22kvE)
-
-![Demo Gif](https://s8.gifyu.com/images/HandLexa.gif)
-
 ## What our app does:
 
 HandLexa is an innovative app that closes the communication gap faced by members of the Deaf and Hard of Hearing communities, who primarily use American Sign Language (ASL) to communicate. HandLexa uses Artificial Intelligence and Machine Learning to recognize ASL signs and convert them into text and audio, allowing Deaf individuals to use sign language to communicate with those who are unfamiliar with it. HandLexa has the potential to make a positive impact for the approximately 600,000 Deaf individuals in the US.
