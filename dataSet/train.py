@@ -47,7 +47,7 @@ model.compile(optimizer=tf.keras.optimizers.Adam(),
               metrics=['accuracy'])
 
 # Train the model
-EPOCHS = 1
+EPOCHS = 10
 history = model.fit(train_dataset, epochs=EPOCHS)
 
 # Save model architecture to JSON
